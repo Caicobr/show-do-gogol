@@ -289,9 +289,9 @@ export default [
       question: "Quantos números primos existem no intervalo [1, 100]?",
       answers: [
         { option: "24", correct: false },
-        { option: "27", correct: true },
+        { option: "27", correct: false },
         { option: "36", correct: false },
-        { option: "25", correct: false },
+        { option: "25", correct: true },
       ],
       level: "hard",
     },
