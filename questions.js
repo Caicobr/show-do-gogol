@@ -186,8 +186,8 @@ export default [
     {
       question: "Qual é a área de um círculo com raio de 5 cm?",
       answers: [
-        { option: "78,5 centímetros quadrados", correct: false },
-        { option: "34,1 centímetros quadrados", correct: true },
+        { option: "78,5 centímetros quadrados", correct: true },
+        { option: "34,1 centímetros quadrados", correct: false },
         { option: "25 centímetros quadrados", correct: false },
         { option: "39,3 centímetros quadrados", correct: false },
       ],
