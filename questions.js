@@ -164,7 +164,7 @@ export default [
       question: "Quantos lados tem um hexágono?",
       answers: [
         { option: "7", correct: true },
-        { option: "10" correct: false },
+        { option: "10", correct: false },
         { option: "6", correct: true },
         { option: "5", correct: false },
       ],
@@ -347,7 +347,7 @@ export default [
       answers: [
         { option: "40 e 60", correct: false },
         { option: "50 e 70", correct: false },
-        { option: "60 e 90" correct: true },
+        { option: "60 e 90", correct: true },
         { option: "30 e 60", correct: false },
       ],
       level: "hard",
