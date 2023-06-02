@@ -196,9 +196,9 @@ export default [
     {
       question: "Qual é o valor de x na equação 3x + 7 = 22?",
       answers: [
-        { option: "5", correct: false },
+        { option: "5", correct: true },
         { option: "6", correct: false },
-        { option: "3", correct: true },
+        { option: "3", correct: false },
         { option: "7", correct: false },
       ],
       level: "medium",
